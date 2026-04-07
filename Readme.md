@@ -4,7 +4,7 @@
 
 This is the implementation of our work at **CVPR2026**😊:
 
-> [**Love Me, Love My Label - Rethinking the Role of Labels in Prompt Retrieval for VICL**](https://arxiv.org). Tianci Luo<sup>\*</sup>, Haohao Pan<sup>*</sup>, Jinpeng Wang, Niu Lian, Xinrui Chen, Bin Chen, Shu-Tao Xia, Chun Yuan.
+> [**Love Me, Love My Label - Rethinking the Role of Labels in Prompt Retrieval for VICL**](https://arxiv.org/abs/2604.03657). Tianci Luo<sup>\*</sup>, Haohao Pan<sup>*</sup>, Jinpeng Wang, Niu Lian, Xinrui Chen, Bin Chen, Shu-Tao Xia, Chun Yuan.
 
 <p align="center">
   <img src="./Figures/arc.png" alt="LaPR-arc">
